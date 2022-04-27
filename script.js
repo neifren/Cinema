@@ -7,6 +7,8 @@ const movieSelect = document.getElementById('movie');
 
 populateUI();
 
+console.log("Hey there!!");
+
 let ticketPrice = +movieSelect.value;
 
 //Save selected mive index and price
